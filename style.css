@@ -1,0 +1,118 @@
+html{scroll-behavior: smooth;}
+/* header start */
+.header-menu{
+    background: #fafa !important;
+  
+}
+.header-menu ul li a:hover{
+    color: #000;
+    cursor: pointer;
+    transition: .3s;
+}
+.header-logo{
+    vertical-align: middle;
+    width: 97px;
+}
+.small, small {
+    font-size: .875em;
+    margin-left: 126px;
+}
+.bg-ol{
+    background: #e9ecef;
+}
+
+.box-shadow {
+    box-shadow: 0px 0px 9px -3px #767;
+}
+
+.test{
+    margin-top: 47px;
+}
+ 
+
+.scrollspy-example {
+    position: relative;
+    height: 160px;
+    overflow: auto;
+}
+
+
+
+/* header end */
+
+/* banner start */
+.banner-img{
+    height: 550px;
+}
+title{}
+/* banner end */
+
+
+/* service section start */
+.justify-content-center {
+    justify-content: center!important;
+    margin-left: 444px;
+}
+
+.verse-1{
+    /* margin-left: 50px; */
+    margin-left: 983px;
+}
+.verse-2{}
+
+.project-name{
+    background: #e9ecef;
+    padding: 10px;
+    border-radius: 5px;
+}
+.project-h {
+    line-height: 38px;
+    font-weight: 600;
+}
+
+.hide-img::after{
+    display: none;
+}
+
+.hover:hover{
+    text-decoration: underline;
+    transition: .3s;
+   
+}
+
+.slide-bar{
+    padding-left: 0;
+    
+}
+
+.left{
+    margin-left: 200px;
+}
+
+.right{
+    margin-right: 200px;
+}
+
+.midle{
+    margin-top: 71px;
+}
+
+.popover{
+    position: relative;
+    top: 0;
+    left: 0;
+   border: 0;
+  outline: none;
+  padding: 0;
+  margin: 0;
+ 
+}
+
+/* service section end */
+
+
+/* footer */
+footer p{
+    background-color: #17a2b8;
+}
+/* footer end*/
